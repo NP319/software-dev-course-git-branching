@@ -247,4 +247,8 @@ Your instructor will verify your work by checking your forked repository on GitH
 You have completed the Git branching exercise! You have learned how to create branches, make commits
 in different branches, and merge branches back into the main branch.
 "Practice commit on main" 
+<<<<<<< HEAD
 "This is a conflicting change on main" 
+=======
+"This is a conflicting change from feature-conflict" 
+>>>>>>> feature-conflict
