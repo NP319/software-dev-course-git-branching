@@ -1,4 +1,4 @@
-// [Your Name] - [Date]
+// [Nikita Paul] - [2/12/2025]
 // This application prints "Hello, World!" and the numbers 0 to 9.
 
 console.log("Hello world!");
